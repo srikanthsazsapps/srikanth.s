@@ -11,7 +11,7 @@ const Resume = () => {
           Driven and solutions-oriented developer with a focus on delivering high-quality,
            maintainable code. Adept at overcoming technical challenges and ensuring seamless 
            user experiences. Known for strong collaboration, problem-solving skills, and a 
-           commitment to continuous learning and improvement.
+           commitment to continuous learning and improvement .
         </p>
       </div>
 
